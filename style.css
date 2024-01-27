@@ -54,5 +54,6 @@ body {
     background-color: rgb(216, 236, 253);
     border: none;
    font-weight: 500;
+  cursor: pointer;
 
 }
